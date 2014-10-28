@@ -399,7 +399,7 @@ You can check the complete classes on this post on a new library I created calle
 #### Further Reading
 - [Challenging CSS Best Practices](http://www.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach/) [Must Read]
 - [ACSS: Rethinking CSS Best Practices](http://www.slideshare.net/renatoiwa/acss)
-- [Mediumâ€™s CSS is actually pretty f***ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
+- [Medium’s CSS is actually pretty f***ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 
 #### Code Examples
 
