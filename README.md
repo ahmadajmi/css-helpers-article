@@ -9,10 +9,10 @@ And because [Naming CSS Stuff Is Really Hard](http://seesparkbox.com/foundry/nam
 
 Helper classes will be responsible for only doing one job and doing it well, doing this will make your code more reusable, scalable for many features that will be added in the future so whenever you want to create a new component you will combine some classes together to build it.
 
-> â€œTreat code like Lego. Break code into the smallest little blocks
-> possible.â€
+> "Treat code like Lego. Break code into the smallest little blocks
+> possible."
 
-> â€” [@csswizardry (via @stubbornella) #btconf](https://twitter.com/smashingmag/status/339024926197559296)
+> [@csswizardry (via @stubbornella) #btconf](https://twitter.com/smashingmag/status/339024926197559296)
 
 Let's see a simple example of what utility classes are and how we can use them, imagine the following snippet of code.
 
