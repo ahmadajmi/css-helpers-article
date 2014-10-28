@@ -396,15 +396,15 @@ Following this principle of abstraction might be different approach from what we
 
 You can check the complete classes on this post on a new library I created called [css-helpers](https://github.com/ahmadajmi/css-helpers).
 
-### Further Reading
-[Challenging CSS Best Practices](http://www.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach/) [Must Read]
-[ACSS: Rethinking CSS Best Practices](http://www.slideshare.net/renatoiwa/acss)
-[Mediumâ€™s CSS is actually pretty f***ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
+#### Further Reading
+- [Challenging CSS Best Practices](http://www.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach/) [Must Read]
+- [ACSS: Rethinking CSS Best Practices](http://www.slideshare.net/renatoiwa/acss)
+- [Mediumâ€™s CSS is actually pretty f***ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 
 #### Code Examples
 
-Learn from and explore the structure of [Mapbox styleguide](https://www.mapbox.com/base/) - [base.css](https://www.mapbox.com/base/latest/base.css)
- [Basscss](http://www.basscss.com/)
-[Foundation utility classes](http://foundation.zurb.com/docs/utility-classes.html)
-[Bootstrap Helper classes](http://getbootstrap.com/css/#helper-classes)
-[uikit utility classes](http://getuikit.com/docs/utility.html)
+- Learn from and explore the structure of [Mapbox styleguide](https://www.mapbox.com/base/) - [base.css](https://www.mapbox.com/base/latest/base.css)
+- [Basscss](http://www.basscss.com/)
+- [Foundation utility classes](http://foundation.zurb.com/docs/utility-classes.html)
+- [Bootstrap Helper classes](http://getbootstrap.com/css/#helper-classes)
+- [uikit utility classes](http://getuikit.com/docs/utility.html)
