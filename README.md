@@ -1,5 +1,5 @@
-Use Helper Classes to Dry and Scale Your CSS.
-=================================
+Use Helper Classes to Dry and Scale CSS
+=======================================
 
 You are starting a large new web project looking around for a new CSS methodology that will help you scale your code. A growing set of techniques for writing modular CSS are out there including [SMACC](https://smacss.com/), [BEM](http://bem.info/), [OOCSS](http://oocss.org/). As you can see, lots and lots of techniques to write and organize CSS.
 
@@ -343,7 +343,7 @@ Second we can define our classes.
 
 A very good and inspiring examples of using colors and background classes is the [Mapbox](https://www.mapbox.com/base/styling/color/) and the [Google Web Starter Kit](https://github.com/google/web-starter-kit/blob/master/app/styles/components/_helper.scss#L20).
 
-![Mapbox colors styleguide](https://dl-web.dropbox.com/get/hosted/Screen%20Shot%202014-10-25%20at%2013.30.33.png?_subject_uid=1922450&w=AACrbkhEItk1wCYR-CJv5zU6-7I5N8e5gYfl5Lv58hmOKQ)
+![Mapbox colors styleguide](https://dl-web.dropbox.com/get/hosted/mapbox-colors.png?_subject_uid=1922450&w=AADp9IzAa2pptfzpB32rNsECi29E2srtZy1aEAJRhAnnYw)
 
 Another use case is the [notification component](http://jsbin.com/tigeqo/1/), let's see how we can style it with background classes.
 
@@ -353,7 +353,7 @@ Another use case is the [notification component](http://jsbin.com/tigeqo/1/), le
 <div class="white p1 mb1 alert-bg">Alert</div>
 ```
 
-[![Alerts](https://dl-web.dropbox.com/get/hosted/Screen%20Shot%202014-10-21%20at%2008.31.33.png?_subject_uid=1922450&w=AADcWdgYi4pWTK1U4UOVumOt2whBNKbsutllNL62KhocYg)](http://jsbin.com/tigeqo/1/)
+[![Alerts](https://dl-web.dropbox.com/get/hosted/alerts-colors.png?_subject_uid=1922450&w=AACEIiQHdY3l66d-11c-lY9G0-wDugkHBxUmeTfZZOMc2g)](http://jsbin.com/tigeqo/1/)
 
 ## Lists
 How many times you want to get ride of the bullets and padding from the `ul` element , [`list-bare`](https://github.com/inuitcss/objects.list-bare) class can do that for you this time.
