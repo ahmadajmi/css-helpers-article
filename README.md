@@ -1,5 +1,7 @@
-Use Helper Classes to Dry and Scale CSS
-=======================================
+##### This article is published in [Sitepoint](http://www.sitepoint.com/using-helper-classes-dry-scale-css/) :)
+
+Using Helper Classes to Dry and Scale CSS
+=========================================
 
 You are starting a large new web project looking around for a new CSS methodology that will help you scale your code. A growing set of techniques for writing modular CSS are out there including [SMACC](https://smacss.com/), [BEM](http://bem.info/), [OOCSS](http://oocss.org/). As you can see, lots and lots of techniques to write and organize CSS.
 
